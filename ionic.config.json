@@ -1,0 +1,7 @@
+{
+  "name": "cohort-x-ballot-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
